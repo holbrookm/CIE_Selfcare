@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>My Login Page</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
+
+	<link rel="stylesheet" href="/static/css/lib/bootstrap.min.css">
+    <link rel="stylesheet" href="/static/css/lib/bootstrap-responsive.css">
+    <link rel="stylesheet" href="/static/css/main.css">
+
+      <!-- Custom styles for this template -->
+ 
+
+</head>
+
+<body id="root">
+	<div class="container">
+
+      <form class="form-signin" role="form"  method = "POST" action = '/login' id = "login_form ">
+        <h2 class="form-signin-heading">Please sign in</h2>
+        <input type="email" name = "username" class="form-control" placeholder="Email address" required autofocus>
+        <input type="password" name ="password" class="form-control" placeholder="Password" required>
+        <label class="checkbox">
+          <input type="checkbox" value="remember-me"> Remember me
+        </label>
+        <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
+      </form>
+
+    </div> <!-- /container -->
+
+<!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="/static/js/lib/jquery.js"></script>
+    <script src="/static/js/lib/bootstrap.js"></script>
+    
+	 
+</body>
+
+
+</html>

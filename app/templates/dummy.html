@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+{% block title %} 'Dummy Template effort' {% endblock %}
+
+{% block body %}
+
+	<h1> This is a dummy template test </h1>
+            <ul>
+            	{% for acs in var_list %}
+            	<span> Lenght is {{var_list | length}} </span>
+            	<span> {{var_list | pprint}} </span>
+            	
+            	<li>{{var_list.results.0.id }}</li>
+            	{% endfor %}
+            </ul>
+
+            <div id="success-msg">
+                <h2>Thanks!</h2>
+                <p>Your submission has been uploaded and will hopefully receive votes shortly.</p>
+            </div>
+            
+
+
+{% endblock %}
