@@ -1,3 +1,5 @@
 ipython
 Flask
 Flask-Script
+httplib2
+PySocks
