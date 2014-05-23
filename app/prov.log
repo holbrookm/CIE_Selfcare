@@ -1,0 +1,1077 @@
+2014-05-22 14:43:30,247 INFO | class_cie_con_mod | root | getting /accounts/AGerry/accounts tooks 0:00:01.294266
+2014-05-22 14:43:30,247 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:43:32,620 INFO | class_cie_con_mod | root | getting /accounts/AGerry tooks 0:00:02.372732
+2014-05-22 14:43:32,620 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:43:33,647 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions tooks 0:00:01.025489
+2014-05-22 14:43:33,647 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:43:34,740 INFO | class_cie_con_mod | root | getting /accounts/AGerry_EICC tooks 0:00:01.092365
+2014-05-22 14:43:34,740 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:43:36,113 INFO | class_cie_con_mod | root | getting /accounts/AGerry_EICC/subscriptions tooks 0:00:01.372909
+2014-05-22 14:43:36,113 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:43:37,567 INFO | class_cie_con_mod | root | getting /accounts/AGerry_VPN tooks 0:00:01.453702
+2014-05-22 14:43:37,567 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:43:38,821 INFO | class_cie_con_mod | root | getting /accounts/AGerry_VPN/subscriptions tooks 0:00:01.253200
+2014-05-22 14:43:38,821 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:43:38,841 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:43:38] "GET /accounts HTTP/1.1" 200 -
+2014-05-22 14:43:40,105 INFO | class_cie_con_mod | root | getting /accounts/AGerry/accounts tooks 0:00:01.259243
+2014-05-22 14:43:40,105 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:43:41,840 INFO | class_cie_con_mod | root | getting /accounts/AGerry tooks 0:00:01.734730
+2014-05-22 14:43:41,840 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:43:43,475 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions tooks 0:00:01.634323
+2014-05-22 14:43:43,475 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:43:45,343 INFO | class_cie_con_mod | root | getting /accounts/AGerry_EICC tooks 0:00:01.867577
+2014-05-22 14:43:45,343 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:43:47,786 INFO | class_cie_con_mod | root | getting /accounts/AGerry_EICC/subscriptions tooks 0:00:02.442609
+2014-05-22 14:43:47,786 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:43:49,824 INFO | class_cie_con_mod | root | getting /accounts/AGerry_VPN tooks 0:00:02.036988
+2014-05-22 14:43:49,824 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:43:50,611 INFO | class_cie_con_mod | root | getting /accounts/AGerry_VPN/subscriptions tooks 0:00:00.785889
+2014-05-22 14:43:50,611 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:43:50,613 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:43:50] "GET /accounts HTTP/1.1" 200 -
+2014-05-22 14:43:50,698 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:43:50] "GET /static/css/lib/united.bootstrap.min.css HTTP/1.1" 200 -
+2014-05-22 14:43:50,703 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:43:50] "GET /static/css/lib/bootstrap-responsive.css HTTP/1.1" 200 -
+2014-05-22 14:43:50,708 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:43:50] "GET /static/css/ui-lightness/jquery-ui-1.10.4.custom.min.css HTTP/1.1" 200 -
+2014-05-22 14:43:50,712 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:43:50] "GET /static/css/main.css HTTP/1.1" 200 -
+2014-05-22 14:43:50,716 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:43:50] "GET /static/js/lib/jquery-1.10.2.js HTTP/1.1" 200 -
+2014-05-22 14:43:50,723 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:43:50] "GET /static/js/lib/jquery-ui-1.10.4.custom.min.js HTTP/1.1" 200 -
+2014-05-22 14:43:50,729 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:43:50] "GET /static/logo-placeholder.gif HTTP/1.1" 200 -
+2014-05-22 14:43:50,733 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:43:50] "GET /static/eircom-2colour.png HTTP/1.1" 200 -
+2014-05-22 14:43:50,855 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:43:50] "GET /static/css/ui-lightness/images/ui-bg_highlight-soft_100_eeeeee_1x100.png HTTP/1.1" 200 -
+2014-05-22 14:43:50,872 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:43:50] "GET /static/css/ui-lightness/images/ui-icons_222222_256x240.png HTTP/1.1" 200 -
+2014-05-22 14:43:50,874 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:43:50] "GET /static/css/ui-lightness/images/ui-bg_gloss-wave_35_f6a828_500x100.png HTTP/1.1" 200 -
+2014-05-22 14:43:50,878 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:43:50] "GET /static/css/ui-lightness/images/ui-bg_glass_100_f6f6f6_1x400.png HTTP/1.1" 200 -
+2014-05-22 14:43:50,881 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:43:50] "GET /static/css/ui-lightness/images/ui-icons_ef8c08_256x240.png HTTP/1.1" 200 -
+2014-05-22 14:43:50,896 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:43:50] "GET /static/css/ui-lightness/images/ui-bg_glass_100_fdf5ce_1x400.png HTTP/1.1" 200 -
+2014-05-22 14:43:51,178 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:43:51] "GET /assets/ico/favicon.ico HTTP/1.1" 404 -
+2014-05-22 14:48:10,458 INFO | class_cie_con_mod | root | getting /accounts/AGerry/accounts tooks 0:00:01.348626
+2014-05-22 14:48:10,458 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:48:12,574 INFO | class_cie_con_mod | root | getting /accounts/AGerry tooks 0:00:02.115998
+2014-05-22 14:48:12,575 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:48:14,896 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions tooks 0:00:02.320832
+2014-05-22 14:48:14,896 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:48:15,844 INFO | class_cie_con_mod | root | getting /accounts/AGerry_EICC tooks 0:00:00.947529
+2014-05-22 14:48:15,844 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:48:16,884 INFO | class_cie_con_mod | root | getting /accounts/AGerry_EICC/subscriptions tooks 0:00:01.038942
+2014-05-22 14:48:16,884 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:48:18,984 INFO | class_cie_con_mod | root | getting /accounts/AGerry_VPN tooks 0:00:02.099245
+2014-05-22 14:48:18,984 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:48:20,366 INFO | class_cie_con_mod | root | getting /accounts/AGerry_VPN/subscriptions tooks 0:00:01.381445
+2014-05-22 14:48:20,366 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:48:20,383 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:48:20] "GET /accounts HTTP/1.1" 200 -
+2014-05-22 14:48:20,388 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:48:20] "GET /static/css/ui-lightness/images/ui-bg_glass_65_ffffff_1x400.png HTTP/1.1" 200 -
+2014-05-22 14:48:20,449 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:48:20] "GET /static/css/lib/united.bootstrap.min.css HTTP/1.1" 200 -
+2014-05-22 14:48:20,452 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:48:20] "GET /static/css/lib/bootstrap-responsive.css HTTP/1.1" 200 -
+2014-05-22 14:48:20,455 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:48:20] "GET /static/css/ui-lightness/jquery-ui-1.10.4.custom.min.css HTTP/1.1" 200 -
+2014-05-22 14:48:20,458 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:48:20] "GET /static/css/main.css HTTP/1.1" 200 -
+2014-05-22 14:48:20,461 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:48:20] "GET /static/js/lib/jquery-1.10.2.js HTTP/1.1" 200 -
+2014-05-22 14:48:20,465 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:48:20] "GET /static/js/lib/jquery-ui-1.10.4.custom.min.js HTTP/1.1" 200 -
+2014-05-22 14:48:20,470 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:48:20] "GET /static/logo-placeholder.gif HTTP/1.1" 200 -
+2014-05-22 14:48:20,473 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:48:20] "GET /static/eircom-2colour.png HTTP/1.1" 200 -
+2014-05-22 14:48:20,586 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:48:20] "GET /static/css/ui-lightness/images/ui-bg_highlight-soft_100_eeeeee_1x100.png HTTP/1.1" 200 -
+2014-05-22 14:48:20,600 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:48:20] "GET /static/css/ui-lightness/images/ui-icons_222222_256x240.png HTTP/1.1" 200 -
+2014-05-22 14:48:20,605 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:48:20] "GET /static/css/ui-lightness/images/ui-bg_gloss-wave_35_f6a828_500x100.png HTTP/1.1" 200 -
+2014-05-22 14:48:20,607 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:48:20] "GET /static/css/ui-lightness/images/ui-bg_glass_100_f6f6f6_1x400.png HTTP/1.1" 200 -
+2014-05-22 14:48:20,610 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:48:20] "GET /static/css/ui-lightness/images/ui-icons_ef8c08_256x240.png HTTP/1.1" 200 -
+2014-05-22 14:48:20,620 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:48:20] "GET /static/css/ui-lightness/images/ui-bg_glass_100_fdf5ce_1x400.png HTTP/1.1" 200 -
+2014-05-22 14:48:20,814 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:48:20] "GET /assets/ico/favicon.ico HTTP/1.1" 404 -
+2014-05-22 14:48:46,620 INFO | class_cie_con_mod | root | getting /accounts/AGerry/accounts tooks 0:00:01.350162
+2014-05-22 14:48:46,621 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:48:47,977 INFO | class_cie_con_mod | root | getting /accounts/AGerry tooks 0:00:01.355627
+2014-05-22 14:48:47,977 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:48:48,991 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions tooks 0:00:01.014005
+2014-05-22 14:48:48,992 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:48:49,720 INFO | class_cie_con_mod | root | getting /accounts/AGerry_EICC tooks 0:00:00.727783
+2014-05-22 14:48:49,720 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:48:50,644 INFO | class_cie_con_mod | root | getting /accounts/AGerry_EICC/subscriptions tooks 0:00:00.924191
+2014-05-22 14:48:50,644 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:48:52,483 INFO | class_cie_con_mod | root | getting /accounts/AGerry_VPN tooks 0:00:01.838506
+2014-05-22 14:48:52,483 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:48:53,219 INFO | class_cie_con_mod | root | getting /accounts/AGerry_VPN/subscriptions tooks 0:00:00.734961
+2014-05-22 14:48:53,219 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:48:53,231 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:48:53] "GET /accounts HTTP/1.1" 200 -
+2014-05-22 14:48:53,234 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:48:53] "GET /static/css/ui-lightness/images/ui-bg_glass_65_ffffff_1x400.png HTTP/1.1" 200 -
+2014-05-22 14:48:53,272 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:48:53] "GET /static/css/lib/united.bootstrap.min.css HTTP/1.1" 200 -
+2014-05-22 14:48:53,278 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:48:53] "GET /static/css/lib/bootstrap-responsive.css HTTP/1.1" 200 -
+2014-05-22 14:48:53,282 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:48:53] "GET /static/css/ui-lightness/jquery-ui-1.10.4.custom.min.css HTTP/1.1" 200 -
+2014-05-22 14:48:53,285 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:48:53] "GET /static/css/main.css HTTP/1.1" 200 -
+2014-05-22 14:48:53,288 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:48:53] "GET /static/js/lib/jquery-1.10.2.js HTTP/1.1" 200 -
+2014-05-22 14:48:53,292 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:48:53] "GET /static/js/lib/jquery-ui-1.10.4.custom.min.js HTTP/1.1" 200 -
+2014-05-22 14:48:53,295 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:48:53] "GET /static/logo-placeholder.gif HTTP/1.1" 200 -
+2014-05-22 14:48:53,298 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:48:53] "GET /static/eircom-2colour.png HTTP/1.1" 200 -
+2014-05-22 14:48:53,469 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:48:53] "GET /assets/ico/favicon.ico HTTP/1.1" 404 -
+2014-05-22 14:49:16,375 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:49:16] "GET / HTTP/1.1" 200 -
+2014-05-22 14:49:16,444 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:49:16] "GET /static/js/lib/jquery.js HTTP/1.1" 404 -
+2014-05-22 14:49:16,497 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:49:16] "GET /static/js/lib/bootstrap.js HTTP/1.1" 200 -
+2014-05-22 14:49:20,052 INFO | class_cie_con_mod | root | getting holbrookm1/accounts/system/security/users/ tooks 0:00:01.130179
+2014-05-22 14:49:20,052 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:49:20,054 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:49:20] "POST /login HTTP/1.1" 302 -
+2014-05-22 14:49:21,232 INFO | class_cie_con_mod | root | getting /accounts/AGerry/accounts tooks 0:00:01.168726
+2014-05-22 14:49:21,232 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:49:23,648 INFO | class_cie_con_mod | root | getting /accounts/AGerry tooks 0:00:02.415794
+2014-05-22 14:49:23,649 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:49:24,559 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions tooks 0:00:00.909793
+2014-05-22 14:49:24,559 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:49:24,990 INFO | class_cie_con_mod | root | getting /accounts/AGerry_EICC tooks 0:00:00.430739
+2014-05-22 14:49:24,990 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:49:25,466 INFO | class_cie_con_mod | root | getting /accounts/AGerry_EICC/subscriptions tooks 0:00:00.475300
+2014-05-22 14:49:25,466 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:49:26,278 INFO | class_cie_con_mod | root | getting /accounts/AGerry_VPN tooks 0:00:00.812143
+2014-05-22 14:49:26,279 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:49:26,911 INFO | class_cie_con_mod | root | getting /accounts/AGerry_VPN/subscriptions tooks 0:00:00.631446
+2014-05-22 14:49:26,911 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:49:26,913 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:49:26] "GET /accounts HTTP/1.1" 200 -
+2014-05-22 14:50:11,735 INFO | class_cie_con_mod | root | getting /accounts/AGerry/accounts tooks 0:00:00.597477
+2014-05-22 14:50:11,735 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:50:12,261 INFO | class_cie_con_mod | root | getting /accounts/AGerry tooks 0:00:00.525826
+2014-05-22 14:50:12,261 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:50:12,606 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions tooks 0:00:00.343955
+2014-05-22 14:50:12,606 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:50:12,879 INFO | class_cie_con_mod | root | getting /accounts/AGerry_EICC tooks 0:00:00.272064
+2014-05-22 14:50:12,879 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:50:13,140 INFO | class_cie_con_mod | root | getting /accounts/AGerry_EICC/subscriptions tooks 0:00:00.261217
+2014-05-22 14:50:13,140 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:50:13,727 INFO | class_cie_con_mod | root | getting /accounts/AGerry_VPN tooks 0:00:00.586503
+2014-05-22 14:50:13,727 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:50:14,086 INFO | class_cie_con_mod | root | getting /accounts/AGerry_VPN/subscriptions tooks 0:00:00.357331
+2014-05-22 14:50:14,086 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:50:14,094 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:50:14] "GET /accounts HTTP/1.1" 200 -
+2014-05-22 14:50:14,161 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:50:14] "GET /static/css/lib/united.bootstrap.min.css HTTP/1.1" 200 -
+2014-05-22 14:50:14,163 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:50:14] "GET /static/css/lib/bootstrap-responsive.css HTTP/1.1" 200 -
+2014-05-22 14:50:14,166 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:50:14] "GET /static/css/ui-lightness/jquery-ui-1.10.4.custom.min.css HTTP/1.1" 200 -
+2014-05-22 14:50:14,169 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:50:14] "GET /static/css/main.css HTTP/1.1" 200 -
+2014-05-22 14:50:14,172 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:50:14] "GET /static/js/lib/jquery-1.10.2.js HTTP/1.1" 200 -
+2014-05-22 14:50:14,176 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:50:14] "GET /static/js/lib/jquery-ui-1.10.4.custom.min.js HTTP/1.1" 200 -
+2014-05-22 14:50:14,181 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:50:14] "GET /static/logo-placeholder.gif HTTP/1.1" 200 -
+2014-05-22 14:50:14,185 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:50:14] "GET /static/eircom-2colour.png HTTP/1.1" 200 -
+2014-05-22 14:50:14,454 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:50:14] "GET /assets/ico/favicon.ico HTTP/1.1" 404 -
+2014-05-22 14:50:20,052 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:50:20] "GET /favicon.ico HTTP/1.1" 404 -
+2014-05-22 14:50:49,554 INFO | class_cie_con_mod | root | getting /accounts/AGerry/accounts tooks 0:00:01.073969
+2014-05-22 14:50:49,554 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:50:50,309 INFO | class_cie_con_mod | root | getting /accounts/AGerry tooks 0:00:00.754463
+2014-05-22 14:50:50,309 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:50:50,783 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions tooks 0:00:00.473801
+2014-05-22 14:50:50,783 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:50:51,013 INFO | class_cie_con_mod | root | getting /accounts/AGerry_EICC tooks 0:00:00.229889
+2014-05-22 14:50:51,014 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:50:51,240 INFO | class_cie_con_mod | root | getting /accounts/AGerry_EICC/subscriptions tooks 0:00:00.226063
+2014-05-22 14:50:51,240 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:50:51,742 INFO | class_cie_con_mod | root | getting /accounts/AGerry_VPN tooks 0:00:00.501616
+2014-05-22 14:50:51,742 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:50:52,015 INFO | class_cie_con_mod | root | getting /accounts/AGerry_VPN/subscriptions tooks 0:00:00.271933
+2014-05-22 14:50:52,015 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:50:52,031 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:50:52] "GET /accounts HTTP/1.1" 200 -
+2014-05-22 14:50:52,059 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:50:52] "GET /favicon.ico HTTP/1.1" 404 -
+2014-05-22 14:50:54,963 INFO | class_cie_con_mod | root | getting /accounts/AGerry/accounts tooks 0:00:00.388496
+2014-05-22 14:50:54,963 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:50:55,484 INFO | class_cie_con_mod | root | getting /accounts/AGerry tooks 0:00:00.521095
+2014-05-22 14:50:55,484 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:50:55,749 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions tooks 0:00:00.264307
+2014-05-22 14:50:55,750 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:50:56,041 INFO | class_cie_con_mod | root | getting /accounts/AGerry_EICC tooks 0:00:00.290822
+2014-05-22 14:50:56,041 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:50:56,263 INFO | class_cie_con_mod | root | getting /accounts/AGerry_EICC/subscriptions tooks 0:00:00.221279
+2014-05-22 14:50:56,263 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:50:56,789 INFO | class_cie_con_mod | root | getting /accounts/AGerry_VPN tooks 0:00:00.525558
+2014-05-22 14:50:56,789 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:50:57,208 INFO | class_cie_con_mod | root | getting /accounts/AGerry_VPN/subscriptions tooks 0:00:00.418328
+2014-05-22 14:50:57,208 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:50:57,210 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:50:57] "GET /accounts HTTP/1.1" 200 -
+2014-05-22 14:50:57,240 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:50:57] "GET /static/css/lib/united.bootstrap.min.css HTTP/1.1" 200 -
+2014-05-22 14:50:57,243 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:50:57] "GET /static/css/lib/bootstrap-responsive.css HTTP/1.1" 200 -
+2014-05-22 14:50:57,247 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:50:57] "GET /static/css/ui-lightness/jquery-ui-1.10.4.custom.min.css HTTP/1.1" 200 -
+2014-05-22 14:50:57,250 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:50:57] "GET /static/css/main.css HTTP/1.1" 200 -
+2014-05-22 14:50:57,252 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:50:57] "GET /static/js/lib/jquery-1.10.2.js HTTP/1.1" 200 -
+2014-05-22 14:50:57,257 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:50:57] "GET /static/js/lib/jquery-ui-1.10.4.custom.min.js HTTP/1.1" 200 -
+2014-05-22 14:50:57,261 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:50:57] "GET /static/logo-placeholder.gif HTTP/1.1" 200 -
+2014-05-22 14:50:57,263 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:50:57] "GET /static/eircom-2colour.png HTTP/1.1" 200 -
+2014-05-22 14:50:57,317 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:50:57] "GET /static/css/ui-lightness/images/ui-bg_highlight-soft_100_eeeeee_1x100.png HTTP/1.1" 200 -
+2014-05-22 14:50:57,333 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:50:57] "GET /static/css/ui-lightness/images/ui-icons_222222_256x240.png HTTP/1.1" 200 -
+2014-05-22 14:50:57,338 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:50:57] "GET /static/css/ui-lightness/images/ui-bg_gloss-wave_35_f6a828_500x100.png HTTP/1.1" 200 -
+2014-05-22 14:50:57,341 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:50:57] "GET /static/css/ui-lightness/images/ui-bg_glass_100_f6f6f6_1x400.png HTTP/1.1" 200 -
+2014-05-22 14:50:57,345 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:50:57] "GET /static/css/ui-lightness/images/ui-icons_ef8c08_256x240.png HTTP/1.1" 200 -
+2014-05-22 14:50:57,353 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:50:57] "GET /static/css/ui-lightness/images/ui-bg_glass_100_fdf5ce_1x400.png HTTP/1.1" 200 -
+2014-05-22 14:50:57,494 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:50:57] "GET /assets/ico/favicon.ico HTTP/1.1" 404 -
+2014-05-22 14:51:41,503 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions tooks 0:00:00.261318
+2014-05-22 14:51:41,503 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:51:41,973 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0080024561234 took 0:00:00.470118
+2014-05-22 14:51:41,973 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:51:42,402 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818220088 took 0:00:00.428204
+2014-05-22 14:51:42,402 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:51:42,867 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818303030 took 0:00:00.463307
+2014-05-22 14:51:42,867 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:51:43,311 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818365000 took 0:00:00.442048
+2014-05-22 14:51:43,311 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:51:43,787 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818719819 took 0:00:00.475590
+2014-05-22 14:51:43,787 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:51:44,235 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303370 took 0:00:00.447410
+2014-05-22 14:51:44,236 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:51:44,747 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373 took 0:00:00.510999
+2014-05-22 14:51:44,747 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:51:45,035 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F2 took 0:00:00.286812
+2014-05-22 14:51:45,035 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:51:45,269 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F3 took 0:00:00.233981
+2014-05-22 14:51:45,269 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:51:45,529 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F4 took 0:00:00.258981
+2014-05-22 14:51:45,529 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:51:45,550 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:51:45] "GET /accounts/AGerry/subscriptions HTTP/1.1" 200 -
+2014-05-22 14:51:45,553 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:51:45] "GET /static/css/ui-lightness/images/ui-bg_glass_65_ffffff_1x400.png HTTP/1.1" 200 -
+2014-05-22 14:53:57,536 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions tooks 0:00:01.055376
+2014-05-22 14:53:57,537 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:54:02,440 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0080024561234 took 0:00:04.902686
+2014-05-22 14:54:02,440 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:54:03,925 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818220088 took 0:00:01.484551
+2014-05-22 14:54:03,925 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:54:04,809 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818303030 took 0:00:00.883191
+2014-05-22 14:54:04,809 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:54:06,286 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818365000 took 0:00:01.476063
+2014-05-22 14:54:06,286 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:54:07,923 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818719819 took 0:00:01.636444
+2014-05-22 14:54:07,923 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:54:09,296 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303370 took 0:00:01.372216
+2014-05-22 14:54:09,296 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:54:10,330 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373 took 0:00:01.032578
+2014-05-22 14:54:10,330 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:54:11,594 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F2 took 0:00:01.262700
+2014-05-22 14:54:11,594 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:54:12,631 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F3 took 0:00:01.037088
+2014-05-22 14:54:12,632 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:54:13,690 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F4 took 0:00:01.057834
+2014-05-22 14:54:13,690 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:54:13,700 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:54:13] "GET /accounts/AGerry/subscriptions HTTP/1.1" 200 -
+2014-05-22 14:54:13,764 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:54:13] "GET /static/css/lib/united.bootstrap.min.css HTTP/1.1" 304 -
+2014-05-22 14:54:13,767 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:54:13] "GET /static/css/ui-lightness/jquery-ui-1.10.4.custom.min.css HTTP/1.1" 304 -
+2014-05-22 14:54:13,770 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:54:13] "GET /static/css/main.css HTTP/1.1" 304 -
+2014-05-22 14:54:13,773 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:54:13] "GET /static/css/lib/bootstrap-responsive.css HTTP/1.1" 304 -
+2014-05-22 14:54:13,775 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:54:13] "GET /static/logo-placeholder.gif HTTP/1.1" 304 -
+2014-05-22 14:54:13,778 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:54:13] "GET /static/eircom-2colour.png HTTP/1.1" 304 -
+2014-05-22 14:54:58,348 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:54:58] "GET /favicon.ico HTTP/1.1" 404 -
+2014-05-22 14:56:07,729 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions tooks 0:00:00.624523
+2014-05-22 14:56:07,729 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:56:08,779 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0080024561234 took 0:00:01.048837
+2014-05-22 14:56:08,779 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:56:10,191 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818220088 took 0:00:01.411340
+2014-05-22 14:56:10,191 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:56:11,473 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818303030 took 0:00:01.281428
+2014-05-22 14:56:11,473 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:56:13,050 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818365000 took 0:00:01.575944
+2014-05-22 14:56:13,050 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:56:14,864 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818719819 took 0:00:01.813244
+2014-05-22 14:56:14,864 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:56:17,590 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303370 took 0:00:02.724682
+2014-05-22 14:56:17,590 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:56:19,623 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373 took 0:00:02.032561
+2014-05-22 14:56:19,623 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:56:21,170 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F2 took 0:00:01.545731
+2014-05-22 14:56:21,170 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:56:22,644 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F3 took 0:00:01.474207
+2014-05-22 14:56:22,645 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:56:23,700 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F4 took 0:00:01.054613
+2014-05-22 14:56:23,700 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:56:23,710 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:56:23] "GET /accounts/AGerry/subscriptions HTTP/1.1" 200 -
+2014-05-22 14:56:24,521 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions tooks 0:00:00.808873
+2014-05-22 14:56:24,521 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:56:26,361 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0080024561234 took 0:00:01.839730
+2014-05-22 14:56:26,361 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:56:28,008 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818220088 took 0:00:01.645908
+2014-05-22 14:56:28,008 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:56:32,868 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818303030 took 0:00:04.858349
+2014-05-22 14:56:32,868 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:56:33,738 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818365000 took 0:00:00.869696
+2014-05-22 14:56:33,738 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:56:34,730 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818719819 took 0:00:00.991138
+2014-05-22 14:56:34,730 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:56:35,513 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303370 took 0:00:00.782196
+2014-05-22 14:56:35,513 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:56:36,332 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373 took 0:00:00.818360
+2014-05-22 14:56:36,332 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:56:37,095 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F2 took 0:00:00.761579
+2014-05-22 14:56:37,095 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:56:37,984 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F3 took 0:00:00.889017
+2014-05-22 14:56:37,985 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:56:43,146 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F4 took 0:00:05.160798
+2014-05-22 14:56:43,146 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:56:43,149 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:56:43] "GET /accounts/AGerry/subscriptions HTTP/1.1" 200 -
+2014-05-22 14:56:43,210 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:56:43] "GET /static/css/lib/united.bootstrap.min.css HTTP/1.1" 200 -
+2014-05-22 14:56:43,214 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:56:43] "GET /static/css/lib/bootstrap-responsive.css HTTP/1.1" 200 -
+2014-05-22 14:56:43,217 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:56:43] "GET /static/css/ui-lightness/jquery-ui-1.10.4.custom.min.css HTTP/1.1" 200 -
+2014-05-22 14:56:43,221 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:56:43] "GET /static/css/main.css HTTP/1.1" 200 -
+2014-05-22 14:56:43,224 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:56:43] "GET /static/logo-placeholder.gif HTTP/1.1" 200 -
+2014-05-22 14:56:43,227 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:56:43] "GET /static/eircom-2colour.png HTTP/1.1" 200 -
+2014-05-22 14:56:43,430 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:56:43] "GET /assets/ico/favicon.ico HTTP/1.1" 404 -
+2014-05-22 14:57:00,177 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:57:00] "GET /favicon.ico HTTP/1.1" 404 -
+2014-05-22 14:57:57,698 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions tooks 0:00:00.363842
+2014-05-22 14:57:57,698 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:57:58,406 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0080024561234 took 0:00:00.707958
+2014-05-22 14:57:58,407 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:57:58,937 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818220088 took 0:00:00.529278
+2014-05-22 14:57:58,937 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:57:59,519 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818303030 took 0:00:00.581794
+2014-05-22 14:57:59,520 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:58:00,074 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818365000 took 0:00:00.553275
+2014-05-22 14:58:00,074 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:58:00,518 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818719819 took 0:00:00.443890
+2014-05-22 14:58:00,518 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:58:01,119 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303370 took 0:00:00.600115
+2014-05-22 14:58:01,119 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:58:01,658 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373 took 0:00:00.537676
+2014-05-22 14:58:01,658 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:58:01,917 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F2 took 0:00:00.257847
+2014-05-22 14:58:01,917 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:58:02,200 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F3 took 0:00:00.282277
+2014-05-22 14:58:02,200 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:58:02,511 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F4 took 0:00:00.310729
+2014-05-22 14:58:02,511 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:58:02,521 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:58:02] "GET /accounts/AGerry/subscriptions HTTP/1.1" 200 -
+2014-05-22 14:58:02,657 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:58:02] "GET /static/css/lib/united.bootstrap.min.css HTTP/1.1" 200 -
+2014-05-22 14:58:02,662 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:58:02] "GET /static/css/lib/bootstrap-responsive.css HTTP/1.1" 200 -
+2014-05-22 14:58:02,672 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:58:02] "GET /static/css/ui-lightness/jquery-ui-1.10.4.custom.min.css HTTP/1.1" 200 -
+2014-05-22 14:58:02,675 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:58:02] "GET /static/css/main.css HTTP/1.1" 200 -
+2014-05-22 14:58:02,681 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:58:02] "GET /static/logo-placeholder.gif HTTP/1.1" 200 -
+2014-05-22 14:58:02,687 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:58:02] "GET /static/eircom-2colour.png HTTP/1.1" 200 -
+2014-05-22 14:58:02,892 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:58:02] "GET /assets/ico/favicon.ico HTTP/1.1" 404 -
+2014-05-22 14:59:05,625 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions tooks 0:00:00.617233
+2014-05-22 14:59:05,625 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:59:06,541 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0080024561234 took 0:00:00.915595
+2014-05-22 14:59:06,541 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:59:07,197 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818220088 took 0:00:00.655405
+2014-05-22 14:59:07,198 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:59:07,897 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818303030 took 0:00:00.698774
+2014-05-22 14:59:07,897 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:59:08,816 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818365000 took 0:00:00.918155
+2014-05-22 14:59:08,816 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:59:09,823 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818719819 took 0:00:01.005319
+2014-05-22 14:59:09,823 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:59:11,108 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303370 took 0:00:01.284693
+2014-05-22 14:59:11,109 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:59:11,947 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373 took 0:00:00.837133
+2014-05-22 14:59:11,947 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:59:12,242 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F2 took 0:00:00.294603
+2014-05-22 14:59:12,242 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:59:12,523 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F3 took 0:00:00.280559
+2014-05-22 14:59:12,523 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:59:12,803 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F4 took 0:00:00.278916
+2014-05-22 14:59:12,803 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:59:12,814 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:59:12] "GET /accounts/AGerry/subscriptions HTTP/1.1" 200 -
+2014-05-22 14:59:12,892 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:59:12] "GET /static/css/lib/united.bootstrap.min.css HTTP/1.1" 200 -
+2014-05-22 14:59:12,896 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:59:12] "GET /static/css/lib/bootstrap-responsive.css HTTP/1.1" 200 -
+2014-05-22 14:59:12,900 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:59:12] "GET /static/css/ui-lightness/jquery-ui-1.10.4.custom.min.css HTTP/1.1" 200 -
+2014-05-22 14:59:12,903 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:59:12] "GET /static/css/main.css HTTP/1.1" 200 -
+2014-05-22 14:59:12,907 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:59:12] "GET /static/logo-placeholder.gif HTTP/1.1" 200 -
+2014-05-22 14:59:12,910 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:59:12] "GET /static/eircom-2colour.png HTTP/1.1" 200 -
+2014-05-22 14:59:12,914 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:59:12] "GET /static/js/lib/jquery-1.10.2.js HTTP/1.1" 200 -
+2014-05-22 14:59:12,919 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:59:12] "GET /static/js/lib/jquery-ui-1.10.4.custom.min.js HTTP/1.1" 200 -
+2014-05-22 14:59:13,083 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:59:13] "GET /static/css/ui-lightness/images/ui-bg_highlight-soft_100_eeeeee_1x100.png HTTP/1.1" 200 -
+2014-05-22 14:59:13,109 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:59:13] "GET /static/css/ui-lightness/images/ui-bg_gloss-wave_35_f6a828_500x100.png HTTP/1.1" 200 -
+2014-05-22 14:59:13,112 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:59:13] "GET /static/css/ui-lightness/images/ui-bg_glass_100_f6f6f6_1x400.png HTTP/1.1" 200 -
+2014-05-22 14:59:13,115 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:59:13] "GET /static/css/ui-lightness/images/ui-icons_ef8c08_256x240.png HTTP/1.1" 200 -
+2014-05-22 14:59:13,139 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:59:13] "GET /static/css/ui-lightness/images/ui-bg_diagonals-thick_20_666666_40x40.png HTTP/1.1" 200 -
+2014-05-22 14:59:13,383 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:59:13] "GET /assets/ico/favicon.ico HTTP/1.1" 404 -
+2014-05-22 14:59:23,613 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions tooks 0:00:00.277265
+2014-05-22 14:59:23,613 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:59:24,111 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0080024561234 took 0:00:00.497767
+2014-05-22 14:59:24,111 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:59:24,646 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818220088 took 0:00:00.533541
+2014-05-22 14:59:24,646 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:59:25,097 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818303030 took 0:00:00.450213
+2014-05-22 14:59:25,097 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:59:25,531 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818365000 took 0:00:00.432823
+2014-05-22 14:59:25,531 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:59:25,965 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818719819 took 0:00:00.433389
+2014-05-22 14:59:25,965 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:59:26,392 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303370 took 0:00:00.426121
+2014-05-22 14:59:26,392 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:59:26,880 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373 took 0:00:00.486748
+2014-05-22 14:59:26,880 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:59:27,105 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F2 took 0:00:00.224592
+2014-05-22 14:59:27,105 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:59:27,375 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F3 took 0:00:00.269509
+2014-05-22 14:59:27,375 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:59:27,637 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F4 took 0:00:00.261008
+2014-05-22 14:59:27,637 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 14:59:27,641 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:59:27] "GET /accounts/AGerry/subscriptions HTTP/1.1" 200 -
+2014-05-22 14:59:27,705 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:59:27] "GET /static/css/lib/united.bootstrap.min.css HTTP/1.1" 200 -
+2014-05-22 14:59:27,707 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:59:27] "GET /static/css/lib/bootstrap-responsive.css HTTP/1.1" 200 -
+2014-05-22 14:59:27,710 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:59:27] "GET /static/css/ui-lightness/jquery-ui-1.10.4.custom.min.css HTTP/1.1" 200 -
+2014-05-22 14:59:27,712 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:59:27] "GET /static/css/main.css HTTP/1.1" 200 -
+2014-05-22 14:59:27,715 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:59:27] "GET /static/js/lib/jquery-1.10.2.js HTTP/1.1" 200 -
+2014-05-22 14:59:27,720 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:59:27] "GET /static/js/lib/jquery-ui-1.10.4.custom.min.js HTTP/1.1" 200 -
+2014-05-22 14:59:27,724 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:59:27] "GET /static/logo-placeholder.gif HTTP/1.1" 200 -
+2014-05-22 14:59:27,726 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:59:27] "GET /static/eircom-2colour.png HTTP/1.1" 200 -
+2014-05-22 14:59:27,848 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:59:27] "GET /static/css/ui-lightness/images/ui-bg_highlight-soft_100_eeeeee_1x100.png HTTP/1.1" 200 -
+2014-05-22 14:59:27,870 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:59:27] "GET /static/css/ui-lightness/images/ui-bg_glass_100_f6f6f6_1x400.png HTTP/1.1" 200 -
+2014-05-22 14:59:27,873 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:59:27] "GET /static/css/ui-lightness/images/ui-icons_ef8c08_256x240.png HTTP/1.1" 200 -
+2014-05-22 14:59:27,875 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:59:27] "GET /static/css/ui-lightness/images/ui-bg_gloss-wave_35_f6a828_500x100.png HTTP/1.1" 200 -
+2014-05-22 14:59:27,880 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:59:27] "GET /static/css/ui-lightness/images/ui-bg_diagonals-thick_20_666666_40x40.png HTTP/1.1" 200 -
+2014-05-22 14:59:28,181 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 14:59:28] "GET /assets/ico/favicon.ico HTTP/1.1" 404 -
+2014-05-22 15:00:03,931 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions tooks 0:00:00.534166
+2014-05-22 15:00:03,931 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 15:00:04,655 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0080024561234 took 0:00:00.723815
+2014-05-22 15:00:04,655 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 15:00:05,329 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818220088 took 0:00:00.672926
+2014-05-22 15:00:05,329 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 15:00:05,993 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818303030 took 0:00:00.663839
+2014-05-22 15:00:05,994 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 15:00:06,571 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818365000 took 0:00:00.576111
+2014-05-22 15:00:06,571 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 15:00:07,258 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818719819 took 0:00:00.685965
+2014-05-22 15:00:07,258 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 15:00:08,290 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303370 took 0:00:01.031056
+2014-05-22 15:00:08,290 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 15:00:09,735 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373 took 0:00:01.443954
+2014-05-22 15:00:09,735 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 15:00:10,516 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F2 took 0:00:00.780088
+2014-05-22 15:00:10,516 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 15:00:11,019 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F3 took 0:00:00.502552
+2014-05-22 15:00:11,019 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 15:00:11,541 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F4 took 0:00:00.521036
+2014-05-22 15:00:11,541 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 15:00:11,554 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 15:00:11] "GET /accounts/AGerry/subscriptions HTTP/1.1" 200 -
+2014-05-22 15:00:11,618 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 15:00:11] "GET /static/css/lib/united.bootstrap.min.css HTTP/1.1" 200 -
+2014-05-22 15:00:11,622 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 15:00:11] "GET /static/css/lib/bootstrap-responsive.css HTTP/1.1" 200 -
+2014-05-22 15:00:11,625 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 15:00:11] "GET /static/css/ui-lightness/jquery-ui-1.10.4.custom.min.css HTTP/1.1" 200 -
+2014-05-22 15:00:11,628 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 15:00:11] "GET /static/css/main.css HTTP/1.1" 200 -
+2014-05-22 15:00:11,631 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 15:00:11] "GET /static/logo-placeholder.gif HTTP/1.1" 200 -
+2014-05-22 15:00:11,634 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 15:00:11] "GET /static/eircom-2colour.png HTTP/1.1" 200 -
+2014-05-22 15:00:11,637 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 15:00:11] "GET /static/js/lib/jquery-1.10.2.js HTTP/1.1" 200 -
+2014-05-22 15:00:11,639 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 15:00:11] "GET /static/js/lib/jquery-ui-1.10.4.custom.min.js HTTP/1.1" 200 -
+2014-05-22 15:00:11,797 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 15:00:11] "GET /static/css/ui-lightness/images/ui-bg_highlight-soft_100_eeeeee_1x100.png HTTP/1.1" 200 -
+2014-05-22 15:00:11,826 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 15:00:11] "GET /static/css/ui-lightness/images/ui-icons_222222_256x240.png HTTP/1.1" 200 -
+2014-05-22 15:00:11,829 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 15:00:11] "GET /static/css/ui-lightness/images/ui-bg_gloss-wave_35_f6a828_500x100.png HTTP/1.1" 200 -
+2014-05-22 15:00:11,832 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 15:00:11] "GET /static/css/ui-lightness/images/ui-bg_glass_100_f6f6f6_1x400.png HTTP/1.1" 200 -
+2014-05-22 15:00:11,835 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 15:00:11] "GET /static/css/ui-lightness/images/ui-icons_ef8c08_256x240.png HTTP/1.1" 200 -
+2014-05-22 15:00:11,838 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 15:00:11] "GET /static/css/ui-lightness/images/ui-bg_diagonals-thick_20_666666_40x40.png HTTP/1.1" 200 -
+2014-05-22 15:00:12,080 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 15:00:12] "GET /assets/ico/favicon.ico HTTP/1.1" 404 -
+2014-05-22 15:00:20,566 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 15:00:20] "GET /static/css/ui-lightness/images/ui-bg_glass_65_ffffff_1x400.png HTTP/1.1" 200 -
+2014-05-22 16:20:55,490 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions tooks 0:00:01.594053
+2014-05-22 16:20:55,490 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:20:59,759 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0080024561234 took 0:00:04.267971
+2014-05-22 16:20:59,759 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:21:01,722 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818220088 took 0:00:01.962425
+2014-05-22 16:21:01,722 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:21:03,944 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818303030 took 0:00:02.221413
+2014-05-22 16:21:03,944 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:21:05,865 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818365000 took 0:00:01.919654
+2014-05-22 16:21:05,865 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:21:07,029 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818719819 took 0:00:01.163050
+2014-05-22 16:21:07,029 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:21:09,066 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303370 took 0:00:02.036010
+2014-05-22 16:21:09,066 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:21:11,237 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373 took 0:00:02.170065
+2014-05-22 16:21:11,237 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:21:12,540 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F2 took 0:00:01.301493
+2014-05-22 16:21:12,540 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:21:13,729 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F3 took 0:00:01.189034
+2014-05-22 16:21:13,729 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:21:14,892 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F4 took 0:00:01.162189
+2014-05-22 16:21:14,892 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:21:14,896 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:21:14] "GET /accounts/AGerry/subscriptions HTTP/1.1" 200 -
+2014-05-22 16:21:14,960 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:21:14] "GET /static/css/lib/united.bootstrap.min.css HTTP/1.1" 200 -
+2014-05-22 16:21:14,963 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:21:14] "GET /static/css/lib/bootstrap-responsive.css HTTP/1.1" 200 -
+2014-05-22 16:21:14,968 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:21:14] "GET /static/css/ui-lightness/jquery-ui-1.10.4.custom.min.css HTTP/1.1" 200 -
+2014-05-22 16:21:14,970 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:21:14] "GET /static/css/main.css HTTP/1.1" 200 -
+2014-05-22 16:21:14,973 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:21:14] "GET /static/js/lib/jquery-1.10.2.js HTTP/1.1" 200 -
+2014-05-22 16:21:14,977 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:21:14] "GET /static/js/lib/jquery-ui-1.10.4.custom.min.js HTTP/1.1" 200 -
+2014-05-22 16:21:14,981 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:21:14] "GET /static/logo-placeholder.gif HTTP/1.1" 200 -
+2014-05-22 16:21:14,984 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:21:14] "GET /static/eircom-2colour.png HTTP/1.1" 200 -
+2014-05-22 16:21:15,100 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:21:15] "GET /static/css/ui-lightness/images/ui-bg_highlight-soft_100_eeeeee_1x100.png HTTP/1.1" 200 -
+2014-05-22 16:21:15,124 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:21:15] "GET /static/css/ui-lightness/images/ui-icons_222222_256x240.png HTTP/1.1" 200 -
+2014-05-22 16:21:15,137 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:21:15] "GET /static/css/ui-lightness/images/ui-bg_gloss-wave_35_f6a828_500x100.png HTTP/1.1" 200 -
+2014-05-22 16:21:15,140 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:21:15] "GET /static/css/ui-lightness/images/ui-bg_glass_100_f6f6f6_1x400.png HTTP/1.1" 200 -
+2014-05-22 16:21:15,143 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:21:15] "GET /static/css/ui-lightness/images/ui-icons_ef8c08_256x240.png HTTP/1.1" 200 -
+2014-05-22 16:21:15,146 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:21:15] "GET /static/css/ui-lightness/images/ui-bg_diagonals-thick_20_666666_40x40.png HTTP/1.1" 200 -
+2014-05-22 16:21:15,425 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:21:15] "GET /assets/ico/favicon.ico HTTP/1.1" 404 -
+2014-05-22 16:22:06,242 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions tooks 0:00:00.889616
+2014-05-22 16:22:06,242 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:22:07,382 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0080024561234 took 0:00:01.139749
+2014-05-22 16:22:07,382 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:22:08,923 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818220088 took 0:00:01.540237
+2014-05-22 16:22:08,923 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:22:10,737 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818303030 took 0:00:01.812824
+2014-05-22 16:22:10,737 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:22:12,069 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818365000 took 0:00:01.331270
+2014-05-22 16:22:12,070 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:22:13,638 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818719819 took 0:00:01.566917
+2014-05-22 16:22:13,638 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:22:15,300 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303370 took 0:00:01.661475
+2014-05-22 16:22:15,300 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:22:17,401 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373 took 0:00:02.099996
+2014-05-22 16:22:17,401 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:22:19,110 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F2 took 0:00:01.708501
+2014-05-22 16:22:19,110 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:22:20,693 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F3 took 0:00:01.582241
+2014-05-22 16:22:20,693 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:22:22,581 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F4 took 0:00:01.887325
+2014-05-22 16:22:22,581 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:22:22,584 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:22:22] "GET /accounts/AGerry/subscriptions HTTP/1.1" 200 -
+2014-05-22 16:22:50,290 INFO | class_cie_con_mod | root | getting /accounts/AGerry/endpoints tooks 0:00:01.351644
+2014-05-22 16:22:50,291 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:22:50,312 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:22:50] "GET /accounts/AGerry/endpoints HTTP/1.1" 200 -
+2014-05-22 16:23:04,380 INFO | class_cie_con_mod | root | getting /accounts/AGerry/endpoints/00442070604436 tooks 0:00:01.060583
+2014-05-22 16:23:04,380 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:23:04,396 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:23:04] "GET /accounts/AGerry/endpoints/00442070604436 HTTP/1.1" 200 -
+2014-05-22 16:23:04,580 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:23:04] "GET /accounts/assets/ico/favicon.ico HTTP/1.1" 404 -
+2014-05-22 16:23:10,571 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions tooks 0:00:00.850729
+2014-05-22 16:23:10,572 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:23:12,966 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0080024561234 took 0:00:02.393923
+2014-05-22 16:23:12,966 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:23:14,442 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818220088 took 0:00:01.475218
+2014-05-22 16:23:14,442 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:23:16,096 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818303030 took 0:00:01.653434
+2014-05-22 16:23:16,096 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:23:17,877 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818365000 took 0:00:01.779700
+2014-05-22 16:23:17,877 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:23:19,794 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818719819 took 0:00:01.916498
+2014-05-22 16:23:19,794 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:23:21,536 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303370 took 0:00:01.741588
+2014-05-22 16:23:21,537 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:23:22,328 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373 took 0:00:00.790097
+2014-05-22 16:23:22,328 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:23:23,622 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F2 took 0:00:01.293162
+2014-05-22 16:23:23,622 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:23:24,604 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F3 took 0:00:00.981816
+2014-05-22 16:23:24,604 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:23:25,455 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F4 took 0:00:00.849812
+2014-05-22 16:23:25,455 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:23:25,459 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:23:25] "GET /accounts/AGerry/subscriptions HTTP/1.1" 200 -
+2014-05-22 16:23:41,259 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:23:41] "GET /favicon.ico HTTP/1.1" 404 -
+2014-05-22 16:23:56,303 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303370 took 0:00:01.232500
+2014-05-22 16:23:56,303 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:23:56,692 INFO | class_cie_con_mod | root | getting /accounts/AGerry/endpoints tooks 0:00:00.388795
+2014-05-22 16:23:56,692 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:23:56,720 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:23:56] "GET /accounts/AGerry/subscriptions/S1800303370/modify HTTP/1.1" 200 -
+2014-05-22 16:23:56,869 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:23:56] "GET /accounts/AGerry/assets/ico/favicon.ico HTTP/1.1" 404 -
+2014-05-22 16:24:08,096 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303370 took 0:00:02.295754
+2014-05-22 16:24:08,097 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:24:09,339 INFO | class_cie_con_mod | root | putting /accounts/AGerry/subscriptions/S1800303370 tooks 0:00:01.241446
+2014-05-22 16:24:09,339 INFO1 | class_cie_con_mod | root |  RESP | {'status': '200', 'content-length': '188', 'accept-ranges': 'bytes', 'vary': 'Accept-Charset, Accept-Encoding, Accept-Language, Accept', 'server': 'Restlet-Framework/2.1rc5', 'date': 'Thu, 22 May 2014 15:24:05 GMT', 'content-type': 'application/json; charset=UTF-8'}
+2014-05-22 16:24:09,339 INFO1 | class_cie_con_mod | root |  CONTENT | {
+  "errors" : [ ],
+  "result" : "UPDATED",
+  "uri" : "/accounts/AGerry/subscriptions/S1800303370",
+  "exceptions" : null,
+  "validatedRep" : null,
+  "id" : "result",
+  "version" : "1.0"
+}
+2014-05-22 16:24:09,339 INFO | class_cie_con_mod | root | Successfully updated
+2014-05-22 16:24:09,341 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:24:09] "POST /accounts/AGerry/subscriptions/S1800303370/applyBasic HTTP/1.1" 302 -
+2014-05-22 16:24:10,709 INFO | class_cie_con_mod | root | getting /accounts/AGerry/accounts tooks 0:00:01.363741
+2014-05-22 16:24:10,709 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:24:13,300 INFO | class_cie_con_mod | root | getting /accounts/AGerry tooks 0:00:02.591325
+2014-05-22 16:24:13,300 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:24:14,814 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions tooks 0:00:01.512664
+2014-05-22 16:24:14,814 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:24:16,647 INFO | class_cie_con_mod | root | getting /accounts/AGerry_EICC tooks 0:00:01.832813
+2014-05-22 16:24:16,648 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:24:17,509 INFO | class_cie_con_mod | root | getting /accounts/AGerry_EICC/subscriptions tooks 0:00:00.860881
+2014-05-22 16:24:17,509 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:24:18,374 INFO | class_cie_con_mod | root | getting /accounts/AGerry_VPN tooks 0:00:00.865402
+2014-05-22 16:24:18,375 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:24:18,769 INFO | class_cie_con_mod | root | getting /accounts/AGerry_VPN/subscriptions tooks 0:00:00.393529
+2014-05-22 16:24:18,769 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:24:18,771 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:24:18] "GET /accounts HTTP/1.1" 200 -
+2014-05-22 16:24:42,045 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions tooks 0:00:01.213356
+2014-05-22 16:24:42,045 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:24:44,507 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0080024561234 took 0:00:02.462097
+2014-05-22 16:24:44,507 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:24:45,533 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818220088 took 0:00:01.024503
+2014-05-22 16:24:45,533 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:24:46,340 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818303030 took 0:00:00.806310
+2014-05-22 16:24:46,340 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:24:47,391 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818365000 took 0:00:01.050078
+2014-05-22 16:24:47,391 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:24:48,947 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818719819 took 0:00:01.555145
+2014-05-22 16:24:48,947 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:24:51,891 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303370 took 0:00:02.943821
+2014-05-22 16:24:51,892 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:24:53,382 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373 took 0:00:01.488774
+2014-05-22 16:24:53,382 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:24:53,907 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F2 took 0:00:00.523827
+2014-05-22 16:24:53,907 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:24:54,338 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F3 took 0:00:00.430614
+2014-05-22 16:24:54,338 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:24:54,608 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F4 took 0:00:00.269245
+2014-05-22 16:24:54,608 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:24:54,613 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:24:54] "GET /accounts/AGerry/subscriptions HTTP/1.1" 200 -
+2014-05-22 16:24:55,091 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions tooks 0:00:00.476360
+2014-05-22 16:24:55,091 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:24:55,960 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0080024561234 took 0:00:00.868740
+2014-05-22 16:24:55,960 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:24:56,525 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818220088 took 0:00:00.563853
+2014-05-22 16:24:56,525 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:24:57,584 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818303030 took 0:00:01.058007
+2014-05-22 16:24:57,584 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:24:58,652 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818365000 took 0:00:01.067235
+2014-05-22 16:24:58,652 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:25:00,351 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818719819 took 0:00:01.698923
+2014-05-22 16:25:00,352 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:25:02,459 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303370 took 0:00:02.107146
+2014-05-22 16:25:02,460 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:25:04,029 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373 took 0:00:01.568314
+2014-05-22 16:25:04,029 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:25:04,620 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F2 took 0:00:00.590752
+2014-05-22 16:25:04,620 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:25:05,130 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F3 took 0:00:00.509734
+2014-05-22 16:25:05,131 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:25:05,477 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F4 took 0:00:00.345962
+2014-05-22 16:25:05,477 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:25:05,481 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:25:05] "GET /accounts/AGerry/subscriptions HTTP/1.1" 200 -
+2014-05-22 16:27:23,489 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions tooks 0:00:01.600315
+2014-05-22 16:27:23,490 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:27:26,018 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0080024561234 took 0:00:02.528515
+2014-05-22 16:27:26,019 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:27:27,733 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818220088 took 0:00:01.714003
+2014-05-22 16:27:27,733 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:27:28,421 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818303030 took 0:00:00.686642
+2014-05-22 16:27:28,422 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:27:29,086 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818365000 took 0:00:00.664160
+2014-05-22 16:27:29,087 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:27:31,430 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818719819 took 0:00:02.342195
+2014-05-22 16:27:31,430 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:27:33,273 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303370 took 0:00:01.842312
+2014-05-22 16:27:33,273 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:27:34,793 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373 took 0:00:01.519630
+2014-05-22 16:27:34,793 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:27:36,031 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F2 took 0:00:01.236920
+2014-05-22 16:27:36,031 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:27:36,952 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F3 took 0:00:00.920579
+2014-05-22 16:27:36,952 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:27:37,937 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F4 took 0:00:00.983712
+2014-05-22 16:27:37,937 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:27:37,947 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:27:37] "GET /accounts/AGerry/subscriptions HTTP/1.1" 200 -
+2014-05-22 16:27:38,019 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:27:38] "GET /static/css/lib/united.bootstrap.min.css HTTP/1.1" 200 -
+2014-05-22 16:27:38,022 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:27:38] "GET /static/css/lib/bootstrap-responsive.css HTTP/1.1" 200 -
+2014-05-22 16:27:38,025 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:27:38] "GET /static/css/ui-lightness/jquery-ui-1.10.4.custom.min.css HTTP/1.1" 200 -
+2014-05-22 16:27:38,028 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:27:38] "GET /static/css/main.css HTTP/1.1" 200 -
+2014-05-22 16:27:38,032 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:27:38] "GET /static/js/lib/bootstrap.js HTTP/1.1" 200 -
+2014-05-22 16:27:38,035 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:27:38] "GET /static/js/lib/jquery-1.10.2.js HTTP/1.1" 200 -
+2014-05-22 16:27:38,039 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:27:38] "GET /static/js/lib/jquery-ui-1.10.4.custom.min.js HTTP/1.1" 200 -
+2014-05-22 16:27:38,043 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:27:38] "GET /static/logo-placeholder.gif HTTP/1.1" 200 -
+2014-05-22 16:27:38,046 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:27:38] "GET /static/eircom-2colour.png HTTP/1.1" 200 -
+2014-05-22 16:27:38,185 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:27:38] "GET /static/css/ui-lightness/images/ui-bg_highlight-soft_100_eeeeee_1x100.png HTTP/1.1" 200 -
+2014-05-22 16:27:38,208 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:27:38] "GET /static/css/ui-lightness/images/ui-icons_222222_256x240.png HTTP/1.1" 200 -
+2014-05-22 16:27:38,213 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:27:38] "GET /static/css/ui-lightness/images/ui-bg_gloss-wave_35_f6a828_500x100.png HTTP/1.1" 200 -
+2014-05-22 16:27:38,216 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:27:38] "GET /static/css/ui-lightness/images/ui-bg_glass_100_f6f6f6_1x400.png HTTP/1.1" 200 -
+2014-05-22 16:27:38,219 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:27:38] "GET /static/css/ui-lightness/images/ui-icons_ef8c08_256x240.png HTTP/1.1" 200 -
+2014-05-22 16:27:38,224 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:27:38] "GET /static/css/ui-lightness/images/ui-bg_diagonals-thick_20_666666_40x40.png HTTP/1.1" 200 -
+2014-05-22 16:27:38,440 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:27:38] "GET /assets/ico/favicon.ico HTTP/1.1" 404 -
+2014-05-22 16:28:28,420 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions tooks 0:00:01.242492
+2014-05-22 16:28:28,420 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:28:31,022 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0080024561234 took 0:00:02.602035
+2014-05-22 16:28:31,023 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:28:31,950 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818220088 took 0:00:00.926863
+2014-05-22 16:28:31,950 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:28:32,402 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818303030 took 0:00:00.451389
+2014-05-22 16:28:32,403 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:28:33,386 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818365000 took 0:00:00.982456
+2014-05-22 16:28:33,386 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:28:35,124 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818719819 took 0:00:01.736851
+2014-05-22 16:28:35,124 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:28:36,823 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303370 took 0:00:01.698361
+2014-05-22 16:28:36,823 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:28:41,527 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373 took 0:00:04.703260
+2014-05-22 16:28:41,527 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:28:41,880 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F2 took 0:00:00.351878
+2014-05-22 16:28:41,881 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:28:42,488 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F3 took 0:00:00.607386
+2014-05-22 16:28:42,489 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:28:43,717 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F4 took 0:00:01.228116
+2014-05-22 16:28:43,717 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:28:43,726 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:28:43] "GET /accounts/AGerry/subscriptions HTTP/1.1" 200 -
+2014-05-22 16:28:43,807 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:28:43] "GET /static/css/lib/united.bootstrap.min.css HTTP/1.1" 304 -
+2014-05-22 16:28:43,809 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:28:43] "GET /static/css/lib/bootstrap-responsive.css HTTP/1.1" 304 -
+2014-05-22 16:28:43,812 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:28:43] "GET /static/css/ui-lightness/jquery-ui-1.10.4.custom.min.css HTTP/1.1" 304 -
+2014-05-22 16:28:43,814 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:28:43] "GET /static/css/main.css HTTP/1.1" 304 -
+2014-05-22 16:28:43,817 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:28:43] "GET /static/js/main.js HTTP/1.1" 200 -
+2014-05-22 16:28:43,821 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:28:43] "GET /static/logo-placeholder.gif HTTP/1.1" 304 -
+2014-05-22 16:28:43,824 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:28:43] "GET /static/js/lib/bootstrap.js HTTP/1.1" 304 -
+2014-05-22 16:28:43,826 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:28:43] "GET /static/js/lib/jquery-1.10.2.js HTTP/1.1" 304 -
+2014-05-22 16:28:43,829 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:28:43] "GET /static/js/lib/jquery-ui-1.10.4.custom.min.js HTTP/1.1" 304 -
+2014-05-22 16:28:43,831 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:28:43] "GET /static/js/lib/jquery.js HTTP/1.1" 404 -
+2014-05-22 16:28:43,834 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:28:43] "GET /static/eircom-2colour.png HTTP/1.1" 304 -
+2014-05-22 16:29:46,592 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions tooks 0:00:01.387988
+2014-05-22 16:29:46,592 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:29:49,459 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0080024561234 took 0:00:02.866670
+2014-05-22 16:29:49,459 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:29:51,926 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818220088 took 0:00:02.466368
+2014-05-22 16:29:51,926 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:29:53,771 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818303030 took 0:00:01.843612
+2014-05-22 16:29:53,771 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:29:56,227 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818365000 took 0:00:02.454879
+2014-05-22 16:29:56,227 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:30:00,313 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818719819 took 0:00:04.085531
+2014-05-22 16:30:00,313 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:30:02,166 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303370 took 0:00:01.852628
+2014-05-22 16:30:02,167 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:30:04,222 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373 took 0:00:02.054603
+2014-05-22 16:30:04,222 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:30:05,449 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F2 took 0:00:01.226228
+2014-05-22 16:30:05,449 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:30:06,867 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F3 took 0:00:01.417865
+2014-05-22 16:30:06,868 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:30:08,096 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F4 took 0:00:01.228469
+2014-05-22 16:30:08,097 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:30:08,100 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:30:08] "GET /accounts/AGerry/subscriptions HTTP/1.1" 200 -
+2014-05-22 16:30:08,163 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:30:08] "GET /static/css/lib/united.bootstrap.min.css HTTP/1.1" 200 -
+2014-05-22 16:30:08,166 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:30:08] "GET /static/css/lib/bootstrap-responsive.css HTTP/1.1" 200 -
+2014-05-22 16:30:08,169 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:30:08] "GET /static/css/ui-lightness/jquery-ui-1.10.4.custom.min.css HTTP/1.1" 200 -
+2014-05-22 16:30:08,172 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:30:08] "GET /static/css/main.css HTTP/1.1" 200 -
+2014-05-22 16:30:08,175 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:30:08] "GET /static/js/lib/bootstrap.js HTTP/1.1" 200 -
+2014-05-22 16:30:08,178 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:30:08] "GET /static/js/lib/jquery-1.10.2.js HTTP/1.1" 200 -
+2014-05-22 16:30:08,182 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:30:08] "GET /static/js/lib/jquery-ui-1.10.4.custom.min.js HTTP/1.1" 200 -
+2014-05-22 16:30:08,186 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:30:08] "GET /static/js/lib/jquery.js HTTP/1.1" 404 -
+2014-05-22 16:30:08,188 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:30:08] "GET /static/js/main.js HTTP/1.1" 200 -
+2014-05-22 16:30:08,191 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:30:08] "GET /static/logo-placeholder.gif HTTP/1.1" 200 -
+2014-05-22 16:30:08,194 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:30:08] "GET /static/eircom-2colour.png HTTP/1.1" 200 -
+2014-05-22 16:30:08,298 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:30:08] "GET /static/css/ui-lightness/images/ui-bg_highlight-soft_100_eeeeee_1x100.png HTTP/1.1" 200 -
+2014-05-22 16:30:08,314 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:30:08] "GET /static/css/ui-lightness/images/ui-bg_gloss-wave_35_f6a828_500x100.png HTTP/1.1" 200 -
+2014-05-22 16:30:08,322 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:30:08] "GET /static/css/ui-lightness/images/ui-bg_diagonals-thick_20_666666_40x40.png HTTP/1.1" 200 -
+2014-05-22 16:30:08,400 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:30:08] "GET /static/css/ui-lightness/images/ui-icons_222222_256x240.png HTTP/1.1" 200 -
+2014-05-22 16:30:08,654 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:30:08] "GET /assets/ico/favicon.ico HTTP/1.1" 404 -
+2014-05-22 16:30:54,248 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions tooks 0:00:01.639468
+2014-05-22 16:30:54,248 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:30:57,417 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0080024561234 took 0:00:03.169178
+2014-05-22 16:30:57,417 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:30:58,689 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818220088 took 0:00:01.271433
+2014-05-22 16:30:58,690 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:31:00,410 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818303030 took 0:00:01.720109
+2014-05-22 16:31:00,410 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:31:02,640 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818365000 took 0:00:02.228982
+2014-05-22 16:31:02,640 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:31:05,057 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818719819 took 0:00:02.416487
+2014-05-22 16:31:05,058 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:31:06,679 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303370 took 0:00:01.620858
+2014-05-22 16:31:06,679 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:31:12,848 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373 took 0:00:06.167725
+2014-05-22 16:31:12,849 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:31:14,239 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F2 took 0:00:01.390021
+2014-05-22 16:31:14,239 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:31:17,177 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F3 took 0:00:02.936864
+2014-05-22 16:31:17,177 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:31:18,549 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F4 took 0:00:01.371824
+2014-05-22 16:31:18,549 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:31:18,553 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:31:18] "GET /accounts/AGerry/subscriptions HTTP/1.1" 200 -
+2014-05-22 16:31:18,620 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:31:18] "GET /static/css/lib/united.bootstrap.min.css HTTP/1.1" 200 -
+2014-05-22 16:31:18,623 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:31:18] "GET /static/css/lib/bootstrap-responsive.css HTTP/1.1" 200 -
+2014-05-22 16:31:18,627 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:31:18] "GET /static/css/ui-lightness/jquery-ui-1.10.4.custom.min.css HTTP/1.1" 200 -
+2014-05-22 16:31:18,630 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:31:18] "GET /static/css/main.css HTTP/1.1" 200 -
+2014-05-22 16:31:18,632 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:31:18] "GET /static/js/lib/bootstrap.js HTTP/1.1" 200 -
+2014-05-22 16:31:18,636 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:31:18] "GET /static/js/lib/jquery-1.10.2.js HTTP/1.1" 200 -
+2014-05-22 16:31:18,641 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:31:18] "GET /static/js/lib/jquery-ui-1.10.4.custom.min.js HTTP/1.1" 200 -
+2014-05-22 16:31:18,645 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:31:18] "GET /static/js/lib/jquery.js HTTP/1.1" 404 -
+2014-05-22 16:31:18,648 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:31:18] "GET /static/js/main.js HTTP/1.1" 200 -
+2014-05-22 16:31:18,651 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:31:18] "GET /static/logo-placeholder.gif HTTP/1.1" 200 -
+2014-05-22 16:31:18,654 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:31:18] "GET /static/eircom-2colour.png HTTP/1.1" 200 -
+2014-05-22 16:31:18,758 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:31:18] "GET /static/css/ui-lightness/images/ui-bg_highlight-soft_100_eeeeee_1x100.png HTTP/1.1" 200 -
+2014-05-22 16:31:18,774 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:31:18] "GET /static/css/ui-lightness/images/ui-bg_gloss-wave_35_f6a828_500x100.png HTTP/1.1" 200 -
+2014-05-22 16:31:18,781 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:31:18] "GET /static/css/ui-lightness/images/ui-bg_diagonals-thick_20_666666_40x40.png HTTP/1.1" 200 -
+2014-05-22 16:31:18,855 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:31:18] "GET /static/css/ui-lightness/images/ui-icons_222222_256x240.png HTTP/1.1" 200 -
+2014-05-22 16:31:19,086 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:31:19] "GET /assets/ico/favicon.ico HTTP/1.1" 404 -
+2014-05-22 16:32:59,438 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions tooks 0:00:01.441457
+2014-05-22 16:32:59,438 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:33:01,563 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0080024561234 took 0:00:02.124858
+2014-05-22 16:33:01,563 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:33:03,210 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818220088 took 0:00:01.646045
+2014-05-22 16:33:03,210 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:33:05,463 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818303030 took 0:00:02.251888
+2014-05-22 16:33:05,463 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:33:07,037 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818365000 took 0:00:01.572650
+2014-05-22 16:33:07,037 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:33:08,375 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818719819 took 0:00:01.337333
+2014-05-22 16:33:08,375 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:33:09,964 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303370 took 0:00:01.588205
+2014-05-22 16:33:09,964 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:33:11,606 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373 took 0:00:01.641479
+2014-05-22 16:33:11,607 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:33:12,418 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F2 took 0:00:00.810908
+2014-05-22 16:33:12,418 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:33:13,648 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F3 took 0:00:01.229569
+2014-05-22 16:33:13,648 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:33:14,875 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F4 took 0:00:01.226564
+2014-05-22 16:33:14,876 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:33:14,880 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:33:14] "GET /accounts/AGerry/subscriptions HTTP/1.1" 200 -
+2014-05-22 16:33:14,943 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:33:14] "GET /static/css/lib/united.bootstrap.min.css HTTP/1.1" 200 -
+2014-05-22 16:33:14,946 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:33:14] "GET /static/css/lib/bootstrap-responsive.css HTTP/1.1" 200 -
+2014-05-22 16:33:14,950 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:33:14] "GET /static/css/ui-lightness/jquery-ui-1.10.4.custom.min.css HTTP/1.1" 200 -
+2014-05-22 16:33:14,953 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:33:14] "GET /static/css/main.css HTTP/1.1" 200 -
+2014-05-22 16:33:14,956 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:33:14] "GET /static/js/lib/bootstrap.js HTTP/1.1" 200 -
+2014-05-22 16:33:14,959 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:33:14] "GET /static/js/lib/jquery-1.10.2.js HTTP/1.1" 200 -
+2014-05-22 16:33:14,964 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:33:14] "GET /static/js/lib/jquery-ui-1.10.4.custom.min.js HTTP/1.1" 200 -
+2014-05-22 16:33:14,967 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:33:14] "GET /static/js/lib/jquery.js HTTP/1.1" 404 -
+2014-05-22 16:33:14,969 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:33:14] "GET /static/js/main.js HTTP/1.1" 200 -
+2014-05-22 16:33:14,971 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:33:14] "GET /static/logo-placeholder.gif HTTP/1.1" 200 -
+2014-05-22 16:33:14,974 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:33:14] "GET /static/eircom-2colour.png HTTP/1.1" 200 -
+2014-05-22 16:33:15,081 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:33:15] "GET /static/css/ui-lightness/images/ui-bg_highlight-soft_100_eeeeee_1x100.png HTTP/1.1" 200 -
+2014-05-22 16:33:15,097 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:33:15] "GET /static/css/ui-lightness/images/ui-bg_gloss-wave_35_f6a828_500x100.png HTTP/1.1" 200 -
+2014-05-22 16:33:15,107 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:33:15] "GET /static/css/ui-lightness/images/ui-bg_diagonals-thick_20_666666_40x40.png HTTP/1.1" 200 -
+2014-05-22 16:33:15,180 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:33:15] "GET /static/css/ui-lightness/images/ui-icons_222222_256x240.png HTTP/1.1" 200 -
+2014-05-22 16:33:15,423 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:33:15] "GET /assets/ico/favicon.ico HTTP/1.1" 404 -
+2014-05-22 16:35:16,520 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions tooks 0:00:01.885961
+2014-05-22 16:35:16,520 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:35:18,714 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0080024561234 took 0:00:02.193183
+2014-05-22 16:35:18,714 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:35:21,042 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818220088 took 0:00:02.327039
+2014-05-22 16:35:21,042 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:35:23,502 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818303030 took 0:00:02.459136
+2014-05-22 16:35:23,502 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:35:24,817 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818365000 took 0:00:01.313963
+2014-05-22 16:35:24,817 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:35:26,776 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818719819 took 0:00:01.958280
+2014-05-22 16:35:26,776 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:35:29,228 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303370 took 0:00:02.451026
+2014-05-22 16:35:29,228 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:35:31,914 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373 took 0:00:02.685044
+2014-05-22 16:35:31,914 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:35:32,183 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F2 took 0:00:00.268619
+2014-05-22 16:35:32,183 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:35:32,635 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F3 took 0:00:00.451244
+2014-05-22 16:35:32,635 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:35:33,009 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F4 took 0:00:00.373394
+2014-05-22 16:35:33,009 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:35:33,019 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:35:33] "GET /accounts/AGerry/subscriptions HTTP/1.1" 200 -
+2014-05-22 16:35:33,090 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:35:33] "GET /static/css/lib/united.bootstrap.min.css HTTP/1.1" 200 -
+2014-05-22 16:35:33,093 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:35:33] "GET /static/css/lib/bootstrap-responsive.css HTTP/1.1" 200 -
+2014-05-22 16:35:33,096 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:35:33] "GET /static/css/ui-lightness/jquery-ui-1.10.4.custom.min.css HTTP/1.1" 200 -
+2014-05-22 16:35:33,099 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:35:33] "GET /static/css/main.css HTTP/1.1" 200 -
+2014-05-22 16:35:33,102 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:35:33] "GET /static/js/lib/bootstrap.js HTTP/1.1" 200 -
+2014-05-22 16:35:33,105 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:35:33] "GET /static/js/lib/jquery-1.10.2.js HTTP/1.1" 200 -
+2014-05-22 16:35:33,109 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:35:33] "GET /static/js/lib/jquery-ui-1.10.4.custom.min.js HTTP/1.1" 200 -
+2014-05-22 16:35:33,112 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:35:33] "GET /static/js/lib/jquery.js HTTP/1.1" 404 -
+2014-05-22 16:35:33,115 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:35:33] "GET /static/logo-placeholder.gif HTTP/1.1" 200 -
+2014-05-22 16:35:33,118 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:35:33] "GET /static/eircom-2colour.png HTTP/1.1" 200 -
+2014-05-22 16:35:33,280 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:35:33] "GET /static/css/ui-lightness/images/ui-bg_highlight-soft_100_eeeeee_1x100.png HTTP/1.1" 200 -
+2014-05-22 16:35:33,300 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:35:33] "GET /static/css/ui-lightness/images/ui-icons_222222_256x240.png HTTP/1.1" 200 -
+2014-05-22 16:35:33,303 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:35:33] "GET /static/css/ui-lightness/images/ui-bg_gloss-wave_35_f6a828_500x100.png HTTP/1.1" 200 -
+2014-05-22 16:35:33,312 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:35:33] "GET /static/css/ui-lightness/images/ui-bg_diagonals-thick_20_666666_40x40.png HTTP/1.1" 200 -
+2014-05-22 16:35:33,559 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:35:33] "GET /assets/ico/favicon.ico HTTP/1.1" 404 -
+2014-05-22 16:36:01,594 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions tooks 0:00:01.746049
+2014-05-22 16:36:01,594 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:36:03,383 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0080024561234 took 0:00:01.788419
+2014-05-22 16:36:03,383 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:36:05,156 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818220088 took 0:00:01.772438
+2014-05-22 16:36:05,156 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:36:07,007 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818303030 took 0:00:01.850229
+2014-05-22 16:36:07,008 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:36:09,582 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818365000 took 0:00:02.573676
+2014-05-22 16:36:09,582 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:36:11,712 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818719819 took 0:00:02.128702
+2014-05-22 16:36:11,712 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:36:13,556 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303370 took 0:00:01.843983
+2014-05-22 16:36:13,556 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:36:15,726 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373 took 0:00:02.168774
+2014-05-22 16:36:15,726 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:36:17,151 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F2 took 0:00:01.424282
+2014-05-22 16:36:17,152 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:36:18,261 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F3 took 0:00:01.108309
+2014-05-22 16:36:18,261 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:36:19,594 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F4 took 0:00:01.332885
+2014-05-22 16:36:19,594 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:36:19,603 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:36:19] "GET /accounts/AGerry/subscriptions HTTP/1.1" 200 -
+2014-05-22 16:36:19,675 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:36:19] "GET /static/css/lib/united.bootstrap.min.css HTTP/1.1" 304 -
+2014-05-22 16:36:19,679 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:36:19] "GET /static/css/lib/bootstrap-responsive.css HTTP/1.1" 304 -
+2014-05-22 16:36:19,683 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:36:19] "GET /static/css/ui-lightness/jquery-ui-1.10.4.custom.min.css HTTP/1.1" 304 -
+2014-05-22 16:36:19,686 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:36:19] "GET /static/css/main.css HTTP/1.1" 304 -
+2014-05-22 16:36:19,689 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:36:19] "GET /static/js/lib/bootstrap.js HTTP/1.1" 304 -
+2014-05-22 16:36:19,692 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:36:19] "GET /static/js/lib/jquery-1.10.2.js HTTP/1.1" 304 -
+2014-05-22 16:36:19,694 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:36:19] "GET /static/js/lib/jquery-ui-1.10.4.custom.min.js HTTP/1.1" 304 -
+2014-05-22 16:36:19,697 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:36:19] "GET /static/js/lib/jquery.js HTTP/1.1" 404 -
+2014-05-22 16:36:19,699 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:36:19] "GET /static/js/main.js HTTP/1.1" 200 -
+2014-05-22 16:36:19,702 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:36:19] "GET /static/logo-placeholder.gif HTTP/1.1" 304 -
+2014-05-22 16:36:19,705 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:36:19] "GET /static/eircom-2colour.png HTTP/1.1" 304 -
+2014-05-22 16:36:52,920 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions tooks 0:00:01.089080
+2014-05-22 16:36:52,920 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:36:54,833 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0080024561234 took 0:00:01.912737
+2014-05-22 16:36:54,833 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:36:56,485 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818220088 took 0:00:01.650987
+2014-05-22 16:36:56,485 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:36:57,862 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818303030 took 0:00:01.375794
+2014-05-22 16:36:57,862 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:36:59,546 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818365000 took 0:00:01.683385
+2014-05-22 16:36:59,546 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:37:01,600 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818719819 took 0:00:02.052509
+2014-05-22 16:37:01,600 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:37:03,920 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303370 took 0:00:02.319441
+2014-05-22 16:37:03,920 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:37:06,309 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373 took 0:00:02.388311
+2014-05-22 16:37:06,309 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:37:08,350 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F2 took 0:00:02.040197
+2014-05-22 16:37:08,351 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:37:09,783 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F3 took 0:00:01.432235
+2014-05-22 16:37:09,783 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:37:11,015 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F4 took 0:00:01.230960
+2014-05-22 16:37:11,015 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:37:11,019 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:37:11] "GET /accounts/AGerry/subscriptions HTTP/1.1" 200 -
+2014-05-22 16:37:11,086 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:37:11] "GET /static/css/lib/united.bootstrap.min.css HTTP/1.1" 200 -
+2014-05-22 16:37:11,090 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:37:11] "GET /static/css/lib/bootstrap-responsive.css HTTP/1.1" 200 -
+2014-05-22 16:37:11,093 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:37:11] "GET /static/css/ui-lightness/jquery-ui-1.10.4.custom.min.css HTTP/1.1" 200 -
+2014-05-22 16:37:11,096 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:37:11] "GET /static/css/main.css HTTP/1.1" 200 -
+2014-05-22 16:37:11,099 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:37:11] "GET /static/js/lib/bootstrap.js HTTP/1.1" 200 -
+2014-05-22 16:37:11,102 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:37:11] "GET /static/js/lib/jquery-1.10.2.js HTTP/1.1" 200 -
+2014-05-22 16:37:11,106 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:37:11] "GET /static/js/lib/jquery-ui-1.10.4.custom.min.js HTTP/1.1" 200 -
+2014-05-22 16:37:11,109 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:37:11] "GET /static/js/lib/jquery.js HTTP/1.1" 404 -
+2014-05-22 16:37:11,112 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:37:11] "GET /static/js/main.js HTTP/1.1" 200 -
+2014-05-22 16:37:11,115 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:37:11] "GET /static/logo-placeholder.gif HTTP/1.1" 200 -
+2014-05-22 16:37:11,118 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:37:11] "GET /static/eircom-2colour.png HTTP/1.1" 200 -
+2014-05-22 16:37:11,222 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:37:11] "GET /static/css/ui-lightness/images/ui-bg_highlight-soft_100_eeeeee_1x100.png HTTP/1.1" 200 -
+2014-05-22 16:37:11,238 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:37:11] "GET /static/css/ui-lightness/images/ui-bg_gloss-wave_35_f6a828_500x100.png HTTP/1.1" 200 -
+2014-05-22 16:37:11,246 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:37:11] "GET /static/css/ui-lightness/images/ui-bg_diagonals-thick_20_666666_40x40.png HTTP/1.1" 200 -
+2014-05-22 16:37:11,318 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:37:11] "GET /static/css/ui-lightness/images/ui-icons_222222_256x240.png HTTP/1.1" 200 -
+2014-05-22 16:37:11,539 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:37:11] "GET /assets/ico/favicon.ico HTTP/1.1" 404 -
+2014-05-22 16:48:38,351 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions tooks 0:00:03.898384
+2014-05-22 16:48:38,351 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:48:40,902 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0080024561234 took 0:00:02.550524
+2014-05-22 16:48:40,902 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:48:43,618 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818220088 took 0:00:02.715213
+2014-05-22 16:48:43,618 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:48:46,232 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818303030 took 0:00:02.613162
+2014-05-22 16:48:46,232 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:48:49,015 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818365000 took 0:00:02.782299
+2014-05-22 16:48:49,015 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:48:51,935 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818719819 took 0:00:02.918927
+2014-05-22 16:48:51,935 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:48:55,928 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303370 took 0:00:03.992202
+2014-05-22 16:48:55,928 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:48:59,271 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373 took 0:00:03.341779
+2014-05-22 16:48:59,271 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:49:00,263 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F2 took 0:00:00.990827
+2014-05-22 16:49:00,263 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:49:01,130 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F3 took 0:00:00.867564
+2014-05-22 16:49:01,131 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:49:05,031 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F4 took 0:00:03.899843
+2014-05-22 16:49:05,031 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:49:05,035 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:49:05] "GET /accounts/AGerry/subscriptions HTTP/1.1" 200 -
+2014-05-22 16:49:05,037 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:49:05] "GET /assets/ico/favicon.ico HTTP/1.1" 404 -
+2014-05-22 16:49:28,060 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions tooks 0:00:01.524630
+2014-05-22 16:49:28,060 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:49:32,100 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0080024561234 took 0:00:04.039461
+2014-05-22 16:49:32,100 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:49:33,750 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818220088 took 0:00:01.648613
+2014-05-22 16:49:33,750 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:49:37,346 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818303030 took 0:00:03.594879
+2014-05-22 16:49:37,346 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:49:38,286 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818365000 took 0:00:00.938674
+2014-05-22 16:49:38,286 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:49:39,443 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818719819 took 0:00:01.156965
+2014-05-22 16:49:39,443 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:49:40,915 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303370 took 0:00:01.470785
+2014-05-22 16:49:40,915 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:49:42,602 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373 took 0:00:01.686105
+2014-05-22 16:49:42,602 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:49:44,236 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F2 took 0:00:01.632650
+2014-05-22 16:49:44,236 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:49:45,594 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F3 took 0:00:01.357779
+2014-05-22 16:49:45,594 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:49:46,848 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F4 took 0:00:01.253404
+2014-05-22 16:49:46,848 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:49:46,851 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:49:46] "GET /accounts/AGerry/subscriptions HTTP/1.1" 200 -
+2014-05-22 16:49:46,914 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:49:46] "GET /static/css/lib/united.bootstrap.min.css HTTP/1.1" 200 -
+2014-05-22 16:49:46,917 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:49:46] "GET /static/css/lib/bootstrap-responsive.css HTTP/1.1" 200 -
+2014-05-22 16:49:46,920 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:49:46] "GET /static/css/ui-lightness/jquery-ui-1.10.4.custom.min.css HTTP/1.1" 200 -
+2014-05-22 16:49:46,923 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:49:46] "GET /static/css/main.css HTTP/1.1" 200 -
+2014-05-22 16:49:46,927 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:49:46] "GET /static/logo-placeholder.gif HTTP/1.1" 200 -
+2014-05-22 16:49:46,929 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:49:46] "GET /static/eircom-2colour.png HTTP/1.1" 200 -
+2014-05-22 16:49:46,932 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:49:46] "GET /static/js/lib/bootstrap.js HTTP/1.1" 200 -
+2014-05-22 16:49:46,934 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:49:46] "GET /static/js/lib/jquery-1.10.2.js HTTP/1.1" 200 -
+2014-05-22 16:49:46,938 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:49:46] "GET /static/js/lib/jquery-ui-1.10.4.custom.min.js HTTP/1.1" 200 -
+2014-05-22 16:49:46,942 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:49:46] "GET /static/js/lib/jquery.js HTTP/1.1" 404 -
+2014-05-22 16:49:46,944 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:49:46] "GET /static/js/main.js HTTP/1.1" 200 -
+2014-05-22 16:49:47,052 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:49:47] "GET /static/css/ui-lightness/images/ui-bg_highlight-soft_100_eeeeee_1x100.png HTTP/1.1" 200 -
+2014-05-22 16:49:47,070 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:49:47] "GET /static/css/ui-lightness/images/ui-bg_gloss-wave_35_f6a828_500x100.png HTTP/1.1" 200 -
+2014-05-22 16:49:47,078 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:49:47] "GET /static/css/ui-lightness/images/ui-bg_diagonals-thick_20_666666_40x40.png HTTP/1.1" 200 -
+2014-05-22 16:49:47,150 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:49:47] "GET /static/css/ui-lightness/images/ui-icons_222222_256x240.png HTTP/1.1" 200 -
+2014-05-22 16:49:47,366 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:49:47] "GET /assets/ico/favicon.ico HTTP/1.1" 404 -
+2014-05-22 16:51:34,357 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0080024561234 took 0:00:02.384466
+2014-05-22 16:51:34,357 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:51:35,806 INFO | class_cie_con_mod | root | getting /accounts/AGerry/endpoints tooks 0:00:01.448446
+2014-05-22 16:51:35,806 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:51:35,820 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:51:35] "GET /accounts/AGerry/subscriptions/S0080024561234/modify HTTP/1.1" 200 -
+2014-05-22 16:51:35,892 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:51:35] "GET /static/js/lib/jquery.js HTTP/1.1" 404 -
+2014-05-22 16:51:36,134 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:51:36] "GET /accounts/AGerry/assets/ico/favicon.ico HTTP/1.1" 404 -
+2014-05-22 16:52:35,226 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0080024561234 took 0:00:02.836464
+2014-05-22 16:52:35,226 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:52:37,455 INFO | class_cie_con_mod | root | getting /accounts/AGerry/endpoints tooks 0:00:02.228376
+2014-05-22 16:52:37,455 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:52:37,476 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:52:37] "GET /accounts/AGerry/subscriptions/S0080024561234/modify HTTP/1.1" 200 -
+2014-05-22 16:52:37,536 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:52:37] "GET /static/css/lib/united.bootstrap.min.css HTTP/1.1" 200 -
+2014-05-22 16:52:37,539 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:52:37] "GET /static/css/lib/bootstrap-responsive.css HTTP/1.1" 200 -
+2014-05-22 16:52:37,542 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:52:37] "GET /static/css/ui-lightness/jquery-ui-1.10.4.custom.min.css HTTP/1.1" 200 -
+2014-05-22 16:52:37,545 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:52:37] "GET /static/css/main.css HTTP/1.1" 200 -
+2014-05-22 16:52:37,548 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:52:37] "GET /static/js/lib/jquery.js HTTP/1.1" 404 -
+2014-05-22 16:52:37,551 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:52:37] "GET /static/js/lib/bootstrap.js HTTP/1.1" 200 -
+2014-05-22 16:52:37,554 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:52:37] "GET /static/js/main.js HTTP/1.1" 200 -
+2014-05-22 16:52:37,558 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:52:37] "GET /static/logo-placeholder.gif HTTP/1.1" 200 -
+2014-05-22 16:52:37,561 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:52:37] "GET /static/eircom-2colour.png HTTP/1.1" 200 -
+2014-05-22 16:52:37,785 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:52:37] "GET /accounts/AGerry/assets/ico/favicon.ico HTTP/1.1" 404 -
+2014-05-22 16:52:57,939 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0080024561234 took 0:00:04.092227
+2014-05-22 16:52:57,939 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:52:59,253 INFO | class_cie_con_mod | root | getting /accounts/AGerry/endpoints tooks 0:00:01.313920
+2014-05-22 16:52:59,254 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:52:59,273 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:52:59] "GET /accounts/AGerry/subscriptions/S0080024561234/modify HTTP/1.1" 200 -
+2014-05-22 16:52:59,310 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:52:59] "GET /static/css/lib/united.bootstrap.min.css HTTP/1.1" 304 -
+2014-05-22 16:52:59,313 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:52:59] "GET /static/css/lib/bootstrap-responsive.css HTTP/1.1" 304 -
+2014-05-22 16:52:59,315 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:52:59] "GET /static/css/ui-lightness/jquery-ui-1.10.4.custom.min.css HTTP/1.1" 304 -
+2014-05-22 16:52:59,318 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:52:59] "GET /static/css/main.css HTTP/1.1" 304 -
+2014-05-22 16:52:59,320 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:52:59] "GET /static/js/lib/jquery.js HTTP/1.1" 404 -
+2014-05-22 16:52:59,324 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:52:59] "GET /static/js/lib/bootstrap.js HTTP/1.1" 304 -
+2014-05-22 16:52:59,326 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:52:59] "GET /static/js/main.js HTTP/1.1" 304 -
+2014-05-22 16:52:59,329 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:52:59] "GET /static/logo-placeholder.gif HTTP/1.1" 304 -
+2014-05-22 16:52:59,332 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:52:59] "GET /static/eircom-2colour.png HTTP/1.1" 304 -
+2014-05-22 16:53:07,039 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:53:07] "GET /assets/ico/favicon.ico HTTP/1.1" 404 -
+2014-05-22 16:53:17,956 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions tooks 0:00:00.868075
+2014-05-22 16:53:17,956 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:53:19,658 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0080024561234 took 0:00:01.702083
+2014-05-22 16:53:19,658 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:53:20,726 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818220088 took 0:00:01.066886
+2014-05-22 16:53:20,726 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:53:21,434 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818303030 took 0:00:00.706950
+2014-05-22 16:53:21,434 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:53:22,517 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818365000 took 0:00:01.082411
+2014-05-22 16:53:22,517 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:53:23,940 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818719819 took 0:00:01.422026
+2014-05-22 16:53:23,940 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:53:25,464 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303370 took 0:00:01.522525
+2014-05-22 16:53:25,464 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:53:26,843 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373 took 0:00:01.378899
+2014-05-22 16:53:26,844 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:53:28,236 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F2 took 0:00:01.391169
+2014-05-22 16:53:28,236 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:53:29,483 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F3 took 0:00:01.246679
+2014-05-22 16:53:29,483 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:53:30,717 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F4 took 0:00:01.233611
+2014-05-22 16:53:30,717 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-22 16:53:30,721 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:53:30] "GET /accounts/AGerry/subscriptions HTTP/1.1" 200 -
+2014-05-22 16:53:30,790 INFO | _internal | werkzeug | 127.0.0.1 - - [22/May/2014 16:53:30] "GET /static/js/lib/jquery.js HTTP/1.1" 404 -
+2014-05-23 14:27:57,136 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions tooks 0:00:01.393057
+2014-05-23 14:27:57,144 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-23 14:27:59,776 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0080024561234 took 0:00:02.630629
+2014-05-23 14:27:59,776 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-23 14:28:00,333 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818220088 took 0:00:00.556251
+2014-05-23 14:28:00,333 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-23 14:28:01,083 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818303030 took 0:00:00.749193
+2014-05-23 14:28:01,083 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-23 14:28:02,834 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818365000 took 0:00:01.750051
+2014-05-23 14:28:02,834 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-23 14:28:04,848 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S0818719819 took 0:00:02.012501
+2014-05-23 14:28:04,848 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-23 14:28:06,922 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303370 took 0:00:02.073328
+2014-05-23 14:28:06,922 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-23 14:28:08,617 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373 took 0:00:01.694178
+2014-05-23 14:28:08,617 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-23 14:28:10,006 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F2 took 0:00:01.388294
+2014-05-23 14:28:10,006 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-23 14:28:11,431 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F3 took 0:00:01.424704
+2014-05-23 14:28:11,431 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-23 14:28:12,664 INFO | class_cie_con_mod | root | getting /accounts/AGerry/subscriptions/S1800303373F4 took 0:00:01.232635
+2014-05-23 14:28:12,665 INFO | class_cie_con_mod | root | HTTP-200 successful request
+2014-05-23 14:28:12,671 INFO | _internal | werkzeug | 127.0.0.1 - - [23/May/2014 14:28:12] "GET /accounts/AGerry/subscriptions HTTP/1.1" 200 -
+2014-05-23 14:28:12,740 INFO | _internal | werkzeug | 127.0.0.1 - - [23/May/2014 14:28:12] "GET /static/css/ui-lightness/jquery-ui-1.10.4.custom.min.css HTTP/1.1" 304 -
+2014-05-23 14:28:12,742 INFO | _internal | werkzeug | 127.0.0.1 - - [23/May/2014 14:28:12] "GET /static/css/main.css HTTP/1.1" 304 -
+2014-05-23 14:28:12,744 INFO | _internal | werkzeug | 127.0.0.1 - - [23/May/2014 14:28:12] "GET /static/css/lib/united.bootstrap.min.css HTTP/1.1" 304 -
+2014-05-23 14:28:12,747 INFO | _internal | werkzeug | 127.0.0.1 - - [23/May/2014 14:28:12] "GET /static/css/lib/bootstrap-responsive.css HTTP/1.1" 304 -
+2014-05-23 14:28:12,750 INFO | _internal | werkzeug | 127.0.0.1 - - [23/May/2014 14:28:12] "GET /static/eircom-2colour.png HTTP/1.1" 304 -
+2014-05-23 14:28:12,754 INFO | _internal | werkzeug | 127.0.0.1 - - [23/May/2014 14:28:12] "GET /static/logo-placeholder.gif HTTP/1.1" 304 -
+2014-05-23 14:28:12,757 INFO | _internal | werkzeug | 127.0.0.1 - - [23/May/2014 14:28:12] "GET /static/js/lib/bootstrap.js HTTP/1.1" 304 -
+2014-05-23 14:28:12,760 INFO | _internal | werkzeug | 127.0.0.1 - - [23/May/2014 14:28:12] "GET /static/js/lib/jquery-1.10.2.js HTTP/1.1" 304 -
+2014-05-23 14:28:12,764 INFO | _internal | werkzeug | 127.0.0.1 - - [23/May/2014 14:28:12] "GET /static/js/lib/jquery-ui-1.10.4.custom.min.js HTTP/1.1" 304 -
+2014-05-23 14:28:12,769 INFO | _internal | werkzeug | 127.0.0.1 - - [23/May/2014 14:28:12] "GET /static/js/lib/jquery.js HTTP/1.1" 404 -
+2014-05-23 14:28:12,773 INFO | _internal | werkzeug | 127.0.0.1 - - [23/May/2014 14:28:12] "GET /static/js/main.js HTTP/1.1" 304 -

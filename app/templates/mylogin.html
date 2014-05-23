@@ -1,24 +1,22 @@
-<!doctype html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>My Login Page</title>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
 
-	<link rel="stylesheet" href="/static/css/lib/bootstrap.min.css">
-    <link rel="stylesheet" href="/static/css/lib/bootstrap-responsive.css">
-    <link rel="stylesheet" href="/static/css/main.css">
+{% extends 'base.html' %}
+{% block title %} 'My Login Page' {% endblock %}
+{% block navbar %}{% endblock %}
 
+{% block body %}
       <!-- Custom styles for this template -->
  
+{% with messages = get_flashed_messages(with_categories=true) %}
+  {% if messages %}
+    <ul class=flashes>
+    {% for category, message in messages %}
+      <li class="{{ category }}">{{ message }}</li>
+    {% endfor %}
+    </ul>
+  {% endif %}
+{% endwith %}
 
-</head>
 
-<body id="root">
 	<div class="container">
 
       <form class="form-signin" role="form"  method = "POST" action = '/login' id = "login_form ">
@@ -40,7 +38,6 @@
     <script src="/static/js/lib/bootstrap.js"></script>
     
 	 
-</body>
+{% endblock %}
 
 
-</html>

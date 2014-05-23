@@ -1,0 +1,85 @@
+{% extends 'base.html' %}
+{% block title %} 'Accounts' {% endblock %}
+
+{%block headers%}
+{% endblock %}
+
+{% block body %}
+
+
+
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+
+
+
+
+
+        <div>
+
+
+            {% for sub in accounts_data_list %}
+          
+              <span> {{sub | pprint}} </span>
+              
+              
+              {% endfor %}
+
+            <table class="table table-hover table-striped">
+                <thead>
+		            <tr>
+		                <th>Parent Account</th>
+                    <th>Account Number</th>
+                    <th>Number of Subscriptions in account</th>
+		            </tr>
+		        </thead>
+		        <tbody>
+		            {% for row in accounts_data_list %}
+		                <tr>
+		                    <td><a href ="{{row.parent}}">{{row.parent}}</a></td>
+                        <td><a href="{{ row.href }}/subscriptions">{{ row.id}}</a></td>
+                        <td>{{row.totalSize}}</td>
+		                </tr>
+		            {% endfor %}
+		        </tbody>
+            </table>
+        
+        <!-- </bootstrap> -->
+        </div>
+
+<div>
+
+{% with messages = get_flashed_messages(with_categories=true) %}
+  {% if messages %}
+    <ul class=flashes>
+    {% for category, message in messages %}
+      <div class="alert alert-warning alert-dismissable">
+      <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+      <strong>Warning!</strong> {{ message }}
+
+      <li class="{{ category }}">{{ message }}</li>
+      </div>
+    {% endfor %}
+    </ul>
+  {% endif %}
+{% endwith %}
+
+</div>
+        
+        <!-- </bootstrap>  -->
+<script language="JavaScript" type="text/javascript" src="/static/js/lib/jquery-1.10.2.js"> </script>
+<script language="JavaScript" type="text/javascript" src="/static/js/lib/jquery-ui-1.10.4.custom.min.js"> </script>
+
+
+
+<div id="dialog" title="Basic dialog">
+<p>This is the default dialog which is useful for displaying information. The dialog window can be moved, resized and closed with the 'x' icon.</p>
+</div>
+<!-- 
+<script  language="JavaScript" type="text/javascript" >
+$(function() {
+$( "#dialog" ).dialog();
+});
+</script>
+ -->
+{% endblock %}
